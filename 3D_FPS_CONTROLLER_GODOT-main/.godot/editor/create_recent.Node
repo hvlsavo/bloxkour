@@ -1,0 +1,11 @@
+AudioStreamPlayer
+AudioStreamPlayer3D
+CollisionShape3D
+Area3D
+Label
+Timer
+CSGBox3D
+Button
+VBoxContainer
+MarginContainer
+MeshInstance3D
